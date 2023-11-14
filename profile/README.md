@@ -31,5 +31,7 @@ Abra um pull request.
 
 ## Autores
 [Gabriel Oliveira](http://github.com/polabiel) - Desenvolvedor
+
 [Rafael Moreira](http://github.com/RMCSa) - Desenvolvedor
+
 Agradecemos por contribuir para o nosso projeto! Se tiver dúvidas ou sugestões, sinta-se à vontade para entrar em contato com a equipe de desenvolvimento.
